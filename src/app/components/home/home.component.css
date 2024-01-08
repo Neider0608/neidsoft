@@ -56,8 +56,6 @@ span.subtitle {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-/*   background: var(--background-color-1);
-  box-shadow: var(--shadow-1); */
   border-radius: 6px;
 }
 
@@ -93,12 +91,8 @@ span.subtitle {
   margin-bottom: 20px;
 
 }
-/* .img-personal{
-  width: 100%;
-}
- */
 
- .social-share {
+.social-share {
   margin: -10px -12px;
   flex-wrap: wrap;
 }
